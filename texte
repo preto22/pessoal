@@ -1,0 +1,8 @@
+### .git: hub
+
+-texte de criação de arquivo no git
+-arquivo README.nd
+  -utilizado para ducumentar a maneira de utilização do seu projeto,com um manual de instrução de uma mesa que ensinar o usuario como montar a  movel
+
+  -Arquivo .gitgore
+  -arquivo que marca o que o git deve ignorar para criar o repositorio, para criar você deve criar o arquivo com as extenções dos aequivos (xlsx, doc, xls, entre outros)
